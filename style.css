@@ -28,7 +28,7 @@ body {
   top: 50%;
   left: 50%;
   width: 25rem;
-  height: 42.5rem;
+  height: 40rem;
   padding: 1.5rem;
   position: absolute;
   border-radius: 1.5rem;
@@ -45,13 +45,13 @@ body {
 }
 
 .cardText {
-  margin-top: 1.5rem;
+  margin-top: 1.8rem;
   text-align: center;
 }
 
 .cardHeading {
   font-size: 1.8rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .cardDetails {
